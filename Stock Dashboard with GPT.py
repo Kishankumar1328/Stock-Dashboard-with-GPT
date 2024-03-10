@@ -8,7 +8,7 @@ from alpha_vantage.fundamentaldata import FundamentalData  # Import FundamentalD
 import openai
 
 # Set up your OpenAI GPT API key (ensure it's kept secure)
-openai.api_key = "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"
+openai.api_key = "Your GPT API KEY "
 
 st.title("Stock Dashboard")
 
